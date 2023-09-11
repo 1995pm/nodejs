@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.weblogo{
+    width: 90px;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+.navbar-nav li a{
+    font-weight: bolder;
+    font-size: 20px;
+    color: white!important;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar{
+    background-color: black!important;
+}
+.btn{
+    background: #fbaa1a;
+}
+.btn:hover{
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+footer{
+    background-color: black;
+    margin-top: 150px;
+}
+.e{
+    color: white;
+    font-size: 40px;
+    font-family: 'prague';
+}
+.f{
+    font-size: 15px;
+    color: white;
+    line-height: 30px;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+.fe{
+    font-size: 15px;
+    color: white;
+}
+.fe strong{
+    color: #fbaa1a;
+}
+.fe a{
+    color: #fbaa1a;
+}
